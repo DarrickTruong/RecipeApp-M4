@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C978CD77262E2E0F00B09530 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C978CD76262E2E0F00B09530 /* RecipeTabView.swift */; };
+		C980A42A262F6B61000DD588 /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = C980A429262F6B61000DD588 /* Ingredient.swift */; };
 		C99DA932262779F100C10BE4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99DA931262779F100C10BE4 /* AppDelegate.swift */; };
 		C99DA934262779F100C10BE4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99DA933262779F100C10BE4 /* SceneDelegate.swift */; };
 		C99DA936262779F100C10BE4 /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C99DA935262779F100C10BE4 /* RecipeListView.swift */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		C978CD76262E2E0F00B09530 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
+		C980A429262F6B61000DD588 /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
 		C99DA92E262779F100C10BE4 /* Lesson13RecipeListApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lesson13RecipeListApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C99DA931262779F100C10BE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C99DA933262779F100C10BE4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				C99DA94C26277BC300C10BE4 /* Recipe.swift */,
+				C980A429262F6B61000DD588 /* Ingredient.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 			files = (
 				C99DA9542627A11500C10BE4 /* RecipeDetailView.swift in Sources */,
 				C99DA932262779F100C10BE4 /* AppDelegate.swift in Sources */,
+				C980A42A262F6B61000DD588 /* Ingredient.swift in Sources */,
 				C978CD77262E2E0F00B09530 /* RecipeTabView.swift in Sources */,
 				C99DA934262779F100C10BE4 /* SceneDelegate.swift in Sources */,
 				C99DA9502627804000C10BE4 /* RecipeModel.swift in Sources */,
